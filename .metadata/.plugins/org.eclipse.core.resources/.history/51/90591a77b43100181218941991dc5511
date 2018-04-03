@@ -1,0 +1,8 @@
+server.port=9090
+spring.datasource.driverClassName=com.mysql.jdbc.Driver
+spring.datasource.url=jdbc:mysql://localhost:3306/watertank
+spring.datasource.username=root
+spring.datasource.password=
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.show_sql=org.hibernate.dialect.MySQLDialect
+spring.hibernate.ddl=update

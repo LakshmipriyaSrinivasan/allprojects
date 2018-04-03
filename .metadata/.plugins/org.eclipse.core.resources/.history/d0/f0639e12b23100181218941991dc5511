@@ -1,0 +1,5 @@
+package com.springboot.mysql.controller;
+
+public class WaterController {
+
+}

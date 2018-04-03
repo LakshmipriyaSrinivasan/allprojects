@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.springboot.first.controller.firstcontroller&apos; to &apos;firstController&apos;&#x0D;&#x0A;- Original project: &apos;014springboot&apos;&#x0D;&#x0A;- Original element: &apos;com.springboot.first.controller.firstcontroller&apos;&#x0D;&#x0A;- Renamed element: &apos;com.springboot.first.controller.firstController&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;firstcontroller&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.springboot.first.controller{firstcontroller.java[firstcontroller" matchStrategy="1" name="firstController" qualified="false" references="true" similarDeclarations="false" stamp="1520939673268" textual="false" version="1.0"/>
+</session>

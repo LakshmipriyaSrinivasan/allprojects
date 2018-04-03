@@ -1,0 +1,5 @@
+package com.springboot.mysql.entity;
+
+public class UseWater {
+
+}

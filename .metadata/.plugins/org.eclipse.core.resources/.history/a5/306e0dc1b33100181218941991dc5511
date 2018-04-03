@@ -1,0 +1,5 @@
+package com.springboot.mysql.repository;
+
+public interface WaterRepository {
+
+}
